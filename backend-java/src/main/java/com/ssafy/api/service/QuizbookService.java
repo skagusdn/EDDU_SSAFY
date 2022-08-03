@@ -1,15 +1,3 @@
-package com.ssafy.api.service;
-
-import com.ssafy.api.request.QuizBookCreateGetReq;
-import com.ssafy.db.entity.Quizbook;
-
-import java.util.Optional;
-
-public interface QuizbookService {
-    Quizbook createQuizBook (QuizBookCreateGetReq quizBookCreateGetReq);
-    Optional<Quizbook> getQuizBookById(long quizbookId);
-
-    boolean checkQuizBookId(long quizbookId);
-
-    boolean deleteQuizBookById(long quizbookId);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea042cd34a5b0585d5d4bb59f74b30b8432ef22dbf675ec44b0d0a19d5ff9c7
+size 517
