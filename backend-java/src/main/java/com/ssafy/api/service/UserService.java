@@ -1,18 +1,3 @@
-package com.ssafy.api.service;
-
-import com.ssafy.api.request.UserRegisterPostReq;
-import com.ssafy.api.request.UserUpdateDto;
-import com.ssafy.db.entity.User;
-
-/**
- *	유저 관련 비즈니스 로직 처리를 위한 서비스 인터페이스 정의.
- */
-public interface UserService {
-	User createUser(UserRegisterPostReq userRegisterInfo);
-	User getUserByUserId(String userId);
-
-	boolean checkUserId(String userid);
-
-	boolean deleteByUserId(User user);
-	void updateUser(UserUpdateDto updateUserDto);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b3de6f894d22f62ebdfda3953aaebf25fc3bfa57129dc984b9864cc396b648c
+size 519
