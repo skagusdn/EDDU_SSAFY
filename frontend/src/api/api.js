@@ -1,20 +1,3 @@
-const HOST = "http://localhost:8080/api/v1/";
-
-const USERS = "users/";
-const QUIZ = "quiz/";
-const EMAIL = "email/";
-
-const users = {
-  signup: () => HOST + USERS + "signup/",
-  login: () => HOST + USERS + "login/",
-  me: () => HOST + USERS + "me/",
-  createQuiz: () => HOST + QUIZ + "createQuiz/",
-  idcheck: () => HOST + USERS + "idcheck/",
-};
-
-const email = {
-  emailConfirm: () => HOST + EMAIL + "emailConfirm/",
-};
-
-export { email };
-export default users;
+version https://git-lfs.github.com/spec/v1
+oid sha256:619150cf814eb16f52121c0f82b256f06c803e508831a0cdef6a9f8b6cd22b73
+size 520
