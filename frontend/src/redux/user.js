@@ -1,21 +1,3 @@
-import { createSlice } from "@reduxjs/toolkit";
-
-export const userSlice = createSlice({
-  name: "user",
-  initialState: {
-    value: {
-      tel: "",
-      nickname: "",
-      email: "",
-    },
-  },
-  reducers: {
-    me: (state, action) => {
-      state.value = action.payload;
-    },
-  },
-});
-
-export const { me } = userSlice.actions;
-
-export default userSlice.reducer;
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcfa77efe76b71986f62e74296c4b0d9ebce5a8a732ba34c7e474e50835a9bf
+size 677
