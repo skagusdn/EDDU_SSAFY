@@ -1,23 +1,3 @@
-package com.ssafy.api.request;
-
-import com.ssafy.db.entity.Room;
-import lombok.Data;
-
-@Data
-public class RoomCreateReq {
-    String userId;
-
-    private String title;
-
-    private String password;
-
-    private String description;
-
-    public Room toEntity(){
-        return Room.builder()
-                .description(getDescription())
-                .title(getTitle())
-                .password(getPassword())
-                .build();
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:71bc97299b4ac0d60593f55c985a694880742b9fe6c589f7626c7864e3b34170
+size 545
