@@ -1,18 +1,3 @@
-/** @format */
-
-import RoomList from "./homepage/RoomList";
-import UserList from "./homepage/UserList";
-import { Grid } from "@mui/material"; //contain
-function Homepage(props) {
-  return (
-    <Grid item container spacing={2}>
-      <Grid item xs={12} md={9}>
-        <RoomList></RoomList>
-      </Grid>
-      <Grid item xs={12} md={3}>
-        <UserList></UserList>
-      </Grid>
-    </Grid>
-  );
-}
-export default Homepage;
+version https://git-lfs.github.com/spec/v1
+oid sha256:00952d25d90bd630fba5d8a07a86003b7aba2e2cea015cb6fc2a3c5bde28d755
+size 2406
