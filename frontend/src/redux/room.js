@@ -1,23 +1,3 @@
-import { createSlice } from "@reduxjs/toolkit";
-
-export const roomSlice = createSlice({
-  name: "room",
-  initialState: {
-    roomTitle: "",
-    roomId: "",
-    rooms: [],
-  },
-  reducers: {
-    setRoom: (state, action) => {
-      state.roomTitle = action.payload.title;
-      state.roomId = action.payload.roomId;
-    },
-    getRooms: (state, action) => {
-      state.rooms = action.payload;
-    },
-  },
-});
-
-export const roomActions = roomSlice.actions;
-
-export default roomSlice.reducer;
+version https://git-lfs.github.com/spec/v1
+oid sha256:902f7eca6982373d5d69e5f3281e9694cdf81db4de4e67a7ab7a917ade783e49
+size 653
