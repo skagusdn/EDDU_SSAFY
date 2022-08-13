@@ -1,18 +1,3 @@
-package com.ssafy.api.service;
-
-import com.ssafy.api.request.UserRoomReq;
-import com.ssafy.api.response.RoomRes;
-import com.ssafy.api.response.UserInRoomRes;
-import com.ssafy.api.response.UserRes;
-
-import java.util.List;
-
-public interface UserRoomService {
-    boolean enterRoom(UserRoomReq userRoomReq);
-
-    boolean quitRoom(UserRoomReq userRoomReq);
-
-    List<RoomRes> getRoomsByUserId(String userId);
-
-    List<UserRes> getUsersByRoomId(long roomId);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:40928b6d2bd899d8a1f940dfd9710334f6bfc0156a2961ab66b246692d01e03b
+size 547
