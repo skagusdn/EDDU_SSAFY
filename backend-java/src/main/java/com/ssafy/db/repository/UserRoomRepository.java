@@ -1,16 +1,3 @@
-package com.ssafy.db.repository;
-
-import com.ssafy.db.entity.UserRoom;
-import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
-
-import java.util.List;
-
-@Repository
-public interface UserRoomRepository extends JpaRepository<UserRoom, Long> {
-
-    long deleteByRoomRoomIdAndUserUserId(long roomId, String userId);
-
-    List<UserRoom> findByUserUserId(String userId);
-    List<UserRoom> findByRoomRoomId(long roomId);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94ff78b9043e9468b7328389b788ec9a6bfc60beb11ae991ec17277ea37e2fc
+size 582
