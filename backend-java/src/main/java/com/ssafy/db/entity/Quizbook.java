@@ -1,31 +1,3 @@
-package com.ssafy.db.entity;
-
-
-import lombok.*;
-
-import javax.persistence.*;
-import java.util.ArrayList;
-import java.util.List;
-
-@Entity(name="quizbook")
-@Data
-@Builder
-@AllArgsConstructor
-@NoArgsConstructor
-public class Quizbook {
-
-    @Id
-    @GeneratedValue
-    private long quizbookId;
-
-    private String title;
-
-    @ManyToOne
-    @JoinColumn(name="user_id")
-    private User user;
-//
-//    @OneToMany(mappedBy = "quizbook")
-//    List<Quiz> quizs = new ArrayList<>();
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc2034e82750b6786f86fe272b15f50e40ae2b8fb36feff08cca4c69ba767d6
+size 618
