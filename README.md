@@ -183,19 +183,19 @@ feature : 세부 기능을 개발하는 브랜치
 ![회원_탈퇴](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/572c588e-0fbf-4159-822d-285bbc511be8)
 
 ### 채팅 기능(학생용)
-![채팅_기능_학생용_](/uploads/4a519bde36a110564abc15fbb2cc3579/채팅_기능_학생용_.gif)
+![채팅_기능_학생용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/9c670117-9da6-4550-9cd6-667c7dcaea67)
 
 ### 퀴즈 풀기(학생용)
 ![퀴즈_풀기_학생용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/256e4ef4-5ac7-4a45-af50-5862f0ab5ae8)
 
 ### 방 입장(학생용)
-![방_입장_학생용_](/uploads/65cd9f15c95eef8df207f32bd73c2196/방_입장_학생용_.gif)
+![방_입장_학생용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/1c97c4c1-1c7c-4c39-b848-6cc880c7590e)
 
 ### 방 생성(교수용)
 ![방_생성_교수용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/30c262d1-e5d3-4aef-b2c6-79efaef24013)
 
 ### 채팅 기능(교수용)
-![채팅_기능_교수용_](/uploads/b30644be16ee32be849f9d4a4c9b2546/채팅_기능_교수용_.gif)
+![채팅_기능_교수용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/5349a6e0-22fe-407c-b985-037eccaf7d3d)
 
 ### 퀴즈 생성(교수용)
 ![퀴즈_생성_교수용_](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/4eb08894-0186-40f8-a18c-93335fee179e)
@@ -242,7 +242,8 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 
 ## ⚙시스템 환경 및 구성
 
-![아키텍쳐](/uploads/f32d442589c8e456c69a6c20e1efe00a/아키텍쳐.png)
+![아키텍쳐](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/b1300b3f-83e1-44f0-b02c-f1d8efe1bcf4)
+
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
