@@ -1,4 +1,5 @@
-# ![favicon-32x32](/uploads/0065b79aaeec8b89d0386770bf08fcb7/favicon-32x32.png) EDDU SSAFY(에뜌 싸피)
+#  ![favicon-32x32](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/1874a27b-2af4-457b-907c-5f8a5d337046)
+EDDU SSAFY(에뜌 싸피)
 비대면 수업을 위한 화상회의 사이트
 
 <br/>
@@ -108,34 +109,44 @@ feature : 세부 기능을 개발하는 브랜치
 
 - **와이어프레임**(figma)
 
-![image](/uploads/fef3c172a69813a46ec8e44c7afea670/image.png)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/34b74d7b-2723-43b3-969d-0b3b2f323948)
 
 <br/>
 
 - **ERD**
 
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/571a1282-84ca-47bd-a7b4-2a4e0a1b6b18)
 
 <br/>
 
 - **화면정의서**
 
-<img src="/uploads/17028b920dfb76d79d4f25ac38f2e5c7/image.png" width="45%"> <img src="/uploads/88ce51527c0d7d02181a6cc210c85a8c/image.png" width="45%">
-<img src="/uploads/07d3045d7c2c95165181bf8541b3d3e3/image.png" width="45%"> <img src="/uploads/6ba5be1bcdd1e14a3bef9a918cf2de0d/image.png" width="45%">
-<img src="/uploads/4a466c788d73adb7a2ec93b17f838a2a/image.png" width="45%">
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/a8db2657-6213-420b-9ad2-498994c31fe3)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/3195b417-6bb3-415c-a835-15c4f72f772c)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/a4852c9a-31df-40cb-ac10-43a0b96da8ca)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/bd64dce4-bf23-4a4c-a3b0-63ceefee1df5)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/afee963f-73c3-47fb-8434-567d7177a775)
+
+
+
 
 <br/>
 
-<img src="/uploads/f530e8f431395ad1d73d72bdf5db4d85/image.png" width="45%"> <img src="/uploads/d6d7718c53f86086e75fd6de0eb78886/image.png" width="45%">
-<img src="/uploads/6fe31aab8ca622964259fb8ff651c9fa/image.png" width="45%">
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/4f21855f-9bcc-4bb3-bd12-9d36e5e6ae80)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/eb940591-9c8d-4fbe-98be-f4f04d4ae691)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/7a38462b-aac6-48da-8643-8a829f5a8d80)
 
 <br/>
 
 - **시퀀스 다이어그램**
 
-<img src="/uploads/174558e5e0ad665433136461962f2adc/image.png" width="45%"> <img src="/uploads/6dd1c4a71dd68df28d9655548b462d9e/image.png" width="45%">
-<img src="/uploads/71855836f707b1c0e8f07b42ab90fa63/image.png" width="45%"> <img src="/uploads/b83155f8fa963d9d3e774aaa12cfda49/image.png" width="45%">
-<img src="/uploads/f9dcee540d384403ea660dff248fd6e3/image.png" width="45%"> <img src="/uploads/54ba1d146c6d84c83a8aa632b89ade6f/image.png" width="45%">
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/2894d786-00e9-4d2b-b99e-f12d9ba0780e)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/0fc33f49-4c97-47bc-8d47-d893e87cc866)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/68fc24a8-68b6-45c7-a110-2f1d3ae0e48e)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/e0446c6b-282f-43c1-8e1a-1ef8aa1c4af1)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/7d87f0e3-c891-4cba-a970-13b12a1ee44c)
+![image](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/51c19fc3-bb04-4adf-9dc1-12b7a8037895)
+
 
 
 <br/><br/><br/>
@@ -164,6 +175,7 @@ feature : 세부 기능을 개발하는 브랜치
 ## 📌주요 기능
 
 ### 회원 가입
+![회원가입](https://github.com/skagusdn/EDDU_SSAFY/assets/57717592/17b3bba5-985e-477e-8179-3d6bae020260)
 ![회원가입](/uploads/a3d4cbc0c24e82bab8f6e1bb6f0b29ed/회원가입.gif)
 
 ### 로그인
